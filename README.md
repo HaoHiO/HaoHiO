@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaoHiO
+- 👋 Hi, I’m @shuaiyang8
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning R
 - 📫 Email:shuai_yang8@163.com
